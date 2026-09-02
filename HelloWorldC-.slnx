@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Izavov_AS2504/Izavov_AS2504.vcxproj" />
+  <Project Path="Izavov_AS2504/Izavov_AS2504.vcxproj" Id="d7a6fed6-27c5-4985-80c3-9a4cf3afc083" />
 </Solution>
