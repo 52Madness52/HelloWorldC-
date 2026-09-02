@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Izavov_AS2504/Izavov_AS2504.vcxproj" />
+</Solution>
